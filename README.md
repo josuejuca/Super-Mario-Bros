@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/josuejuca/API-naruto/">
+  <a href="https://github.com/josuejuca/Super-Mario-Bros/">
     <img src="https://upload.wikimedia.org/wikipedia/pt/0/03/Super_Mario_Bros._box.png" alt="[ ]">
   </a>
 
